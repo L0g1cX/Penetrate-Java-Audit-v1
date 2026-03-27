@@ -1,3 +1,6 @@
+直接运行 run.bat 或者 run.sh
+Directly execute run.bat or run.sh
+//
 留言板：https://uz6z.90c.me/
 目前还处于初期开发阶段，球球师傅们试用一下，留下建议↑
 ଘ(੭ˊᵕˋ)੭*
